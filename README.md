@@ -1,68 +1,40 @@
-# 👨‍💻 **Lakshay Chawla** 
-### _Artificial Intelligence | Robotics | Full Stack Development_
+<h1 align="center"><b>Hello, I'm Laksh! 👋</b></h1>
+<p align="center">Artificial Intelligence | Robotics | Development</p>
 
 ---
 
-### 🌟 **Welcome to My GitHub Profile!**
-Hi there! 👋 I'm Lakshay Chawla, a passionate AI/ML enthusiast and developer, currently diving deep into the world of **SLAM, Computer Vision, and Autonomous Systems**. Whether it's crafting cutting-edge deep learning models or building robust full-stack applications, I bring a knack for innovation and efficiency to every project.
-
----
-
-## 🚀 **About Me**
-- 🎓 **Education**: Undergraduate in AI & ML, Chandigarh University | Research Intern, Yuan-Ze University
-- 🔭 **Current Projects**:
-  - 🔹 _Visual SLAM Through Deep Learning_ (DROID-SLAM on TUM and TartanAir datasets)
-  - 🔹 LiDAR-based Object Detection Pipeline with Autoware.Auto
-  - 🔹 ML-based Space Applications using Satellite Data
-- 🌏 **Living In**: Taiwan 🇹🇼 | India 🇮🇳
-- 🧠 **Interests**:
-  - Deep Learning for Robotics 🤖
-  - 3D Computer Vision (Point Clouds, LiDAR) 🌌
-  - AI-driven Satellite Imaging 🚀
+## 🚀 About Me
+- 🎓 **Education**: Undergraduate in AI & ML, Chandigarh University  
+  &nbsp; Research Intern, Yuan-Ze University  
+- 🔭 **Current Projects**:  
+  &nbsp; 🔹 _Visual SLAM Through Deep Learning_ (DROID-SLAM on TUM and TartanAir datasets)  
+  &nbsp; 🔹 LiDAR-based Object Detection Pipeline with Autoware.Auto  
+  &nbsp; 🔹 ML-based Space Applications using Satellite Data  
+- 🌏 **Living In**: Taiwan 🇹🇼 | India 🇮🇳  
+- 🧠 **Interests**:  
+  &nbsp; 🔹 Deep Learning for Robotics 🤖  
+  &nbsp; 🔹 3D Computer Vision (Point Clouds, LiDAR) 🌌  
+  &nbsp; 🔹 AI-driven Satellite Imaging 🚀  
 
 ---
 
 ## 🛠️ **Skills**
+
 ### 🤖 **Machine Learning & AI**
-- **Languages**: Python, TensorFlow, PyTorch, OpenCV
-- **Applications**: Computer Vision, NLP, 3D Data Processing
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
+</p>
 
 ### 🌐 **Web Development**
-- **Frontend**: React JS, TypeScript, HTML/CSS
-- **Backend**: Node.js, MongoDB, REST APIs
-
-### 🛰️ **Research Expertise**
-- Satellite Data Analysis (InSAR, Multispectral Imagery)
-- Visual SLAM Techniques (DROID-SLAM, DPVO)
-
----
-
-## 🏆 **Achievements**
-- 📜 **2 Research Papers Published**
-- 🛠️ **Patent Filed**
-- 🏅 Multiple Hackathon Wins & International Competitions
-- 📌 Job Offers: University of Algarve
-
----
-
-## 📂 **Highlighted Projects**
-### 🌀 [Visual SLAM Through Deep Learning](https://github.com/your-repo-link)
-- Implemented and benchmarked **DROID-SLAM** on TUM and TartanAir datasets
-- Improved system efficiency and robustness using deep learning methodologies
-
-### 📡 [Satellite Data Landslide Mapping](https://github.com/your-repo-link)
-- Advanced image analysis for ISRO projects with multispectral satellite imagery
-
-### 🖥️ [University Evaluation System](https://github.com/your-repo-link)
-- Full-stack AI-based system for academic performance assessment using MERN stack
-
----
-
-## 💼 **Work Experience**
-- **Research Intern, Yuan-Ze University** (Taiwan)
-  - Focus: Retrieval-Augmented Generation for LLMs & SLAM Development
-- **Full Stack Developer, Startups** (India)
-  - Developed satellite telemetry software and scalable web apps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+</p>
 
 ---
 
@@ -71,13 +43,7 @@ Hi there! 👋 I'm Lakshay Chawla, a passionate AI/ML enthusiast and developer, 
 - 📧 [Email Me](mailto:your-email@example.com)
 - 🐦 [Twitter](https://twitter.com/your-handle)
 - 💼 [LinkedIn](https://linkedin.com/in/lakshaychawla)
-- 📜 [ResearchGate](https://www.researchgate.net/profile/your-name)
 
 ---
 
-### 🔥 **Fun Fact**
-I’m also starting a clothing business focused on **Indian ethnic dresses for women** abroad! 💃
-
----
-
-**💡 _"Code, Research, and Innovate."_**
+<h3 align="center">💡 "Code, Research, and Innovate."</h3>
