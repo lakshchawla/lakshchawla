@@ -52,11 +52,4 @@
 📫 Reach me at: **[lakshhchawla@gmail.com](mailto:lakshhchawla@gmail.com)**  
 🔗 [LinkedIn](https://linkedin.com/in/lakshaychawla) | [GitHub](https://github.com/lakshchawla)
 
----
-
-### 🌱 Philosophy
-
-> "I don't come from privilege or a famous college - I come from persistence, from code that runs at 3AM, and from a dream that doesn't fade."
-
----
 
