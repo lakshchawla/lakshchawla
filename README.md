@@ -18,7 +18,7 @@
 - **Graduate Research Student** at Intelligent Control Lab, NTUT  
   → Builing Digital Twins, simulated SLAM tasks, and designing drone and AMR behavior models with RL & DL.
 
-- **Visual SLAM & 3D Scene Understanding** at Yuan Ze University  
+- **Research Intern** at Yuan Ze University  
   → Worked & Researched on Visual SLAM, RAG pipelines for LLMs in robotics, and GNN-based point cloud analysis models.
 
 - **Computer Vision Research Student** for Satellite Imagery at Kalpana Chawla Center, CU  
