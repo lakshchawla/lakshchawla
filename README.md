@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakshay Chawla (aka Lakshh)
 
-🎓 Master's student in **Taipei Tech**, originally from India.  
+🎓 Master's student at **Taipei Tech**, originally from India.  
 ⚙️ Passionate about **robotics**, **simulations**, **Computer Vision**, **Deep Learning**, and **Development**, and building tools that bridge the gap between simulation and real-world autonomy.  
 💡 My Research Area is in **SLAM**, **Robotics**, **Deep Learning**, and **Computer Vision** — building smart, perception-driven robots from the ground up.
 
